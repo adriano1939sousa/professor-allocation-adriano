@@ -1,15 +1,9 @@
 package com.project.professor.allocation.adriano.entity;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
-
 import javax.persistence.*;
-import java.util.List;
 
 @Entity
-@Table(name = "department")
 public class Department {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

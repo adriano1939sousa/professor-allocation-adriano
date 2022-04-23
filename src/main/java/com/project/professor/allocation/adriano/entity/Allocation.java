@@ -1,22 +1,17 @@
 package com.project.professor.allocation.adriano.entity;
-
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.fasterxml.jackson.databind.deser.std.DateDeserializers;
 import com.fasterxml.jackson.databind.ser.std.DateSerializer;
-import org.hibernate.annotations.OnDelete;
-import org.hibernate.annotations.OnDeleteAction;
 import io.swagger.annotations.ApiModelProperty;
 
 import javax.persistence.*;
 import java.time.DayOfWeek;
 import java.util.Date;
-import java.util.List;
 
 @Entity
-@Table(name = "allocation")
 public class Allocation {
     @JsonProperty(access = JsonProperty.Access.READ_ONLY)
     @Id
