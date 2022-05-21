@@ -1,0 +1,17 @@
+com\project\professor\allocation\adriano\service\ProfessorService.class
+com\project\professor\allocation\adriano\entity\Course.class
+com\project\professor\allocation\adriano\entity\Department.class
+com\project\professor\allocation\adriano\repository\ProfessorRepository.class
+com\project\professor\allocation\adriano\controller\DepartmentController.class
+com\project\professor\allocation\adriano\service\AllocationService.class
+com\project\professor\allocation\adriano\controller\CourseController.class
+com\project\professor\allocation\adriano\repository\CourseRepository.class
+com\project\professor\allocation\adriano\service\DepartmentService.class
+com\project\professor\allocation\adriano\entity\Professor.class
+com\project\professor\allocation\adriano\ProfessorAllocationAdrianoApplication.class
+com\project\professor\allocation\adriano\controller\AllocationController.class
+com\project\professor\allocation\adriano\service\CourseService.class
+com\project\professor\allocation\adriano\controller\ProfessorController.class
+com\project\professor\allocation\adriano\entity\Allocation.class
+com\project\professor\allocation\adriano\repository\DepartmentRepository.class
+com\project\professor\allocation\adriano\repository\AllocationRepository.class

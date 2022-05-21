@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.professor.allocation.adriano.ProfessorAllocationAdrianoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.613 s - in com.project.professor.allocation.adriano.ProfessorAllocationAdrianoApplicationTests
